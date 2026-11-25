@@ -1,0 +1,6 @@
+{
+  "name": "fritkot-settings-eval",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Test repository for a controlled evaluation of settings collection. Contains no real secrets."
+}
